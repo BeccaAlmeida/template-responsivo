@@ -1,0 +1,19 @@
+{
+  "name": "template-responsivo",
+  "version": "1.0.0",
+  "description": "Template responsivo para tela dinamica de filmes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccaalmeida1995/template-responsivo.git"
+  },
+  "author": "Rebecca Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccaalmeida1995/template-responsivo/issues"
+  },
+  "homepage": "https://github.com/rebeccaalmeida1995/template-responsivo#readme"
+}
